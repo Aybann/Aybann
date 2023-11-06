@@ -13,11 +13,11 @@ I'm a professional front-end developer specializing in HTML, CSS, and JavaScript
 
 ## Contact
 - ☎️ 0975-514-4526
-- 📧 rayi796773@gmail.com
+- 📧 ivanray.n.castillo@gmail.com
 - 🕸️ [website]
 - 👉 [github]
 
 <br />
 
-[website]:resume-projects-eight.vercel.app
+[website]:https://ivanswebsite.netlify.app/
 [github]:https://github.com/Aybann
